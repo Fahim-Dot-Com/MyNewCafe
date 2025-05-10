@@ -1,2 +1,26 @@
-# Auto detect text files and perform LF normalization
+
+# Normalize all text files for consistent line endings across OSes
 * text=auto
+
+# Python scripts should always use LF (Unix-style)
+*.py text eol=lf
+
+# Markdown files (README, etc.)
+*.md text eol=lf
+
+# Treat image files as binary if you add any
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Config and environment files, merge-friendly
+*.env merge=union
+*.conf merge=union
+
+# Ignore log files in diffs (if any)
+*.log text
+
+# If you use JSON (e.g., for storing menu items or prices later)
+*.json text eol=lf
