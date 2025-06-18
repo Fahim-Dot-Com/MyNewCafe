@@ -14,6 +14,8 @@ This is a fun and interactive **command-line coffee shop app** built using Pytho
 - 📋 Clean and formatted output for better user experience
 - 👋 Friendly goodbye and repeat-order option
 
+## 📷 Interaction Example
+Python IDE
 ---
 
 ## 📦 How to Run
