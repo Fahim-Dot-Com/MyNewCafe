@@ -16,6 +16,14 @@ This is a fun and interactive **command-line coffee shop app** built using Pytho
 
 ## 📷 Interaction Example
 Python IDE
+![Screenshot_20250618_193716_Mimo](https://github.com/user-attachments/assets/a3602de3-52e4-42ec-96fe-24ccb52b5458)
+![Screenshot_20250618_193831_Mimo](https://github.com/user-attachments/assets/f4a7e644-9cff-40ff-8c58-d8f2bb00f267)
+![Screenshot_20250618_193836_Mimo](https://github.com/user-attachments/assets/b0c9bdce-c622-4cbc-858d-d3398ce993e6)
+
+Pydroid 3
+![Screenshot_20250618_194125_Pydroid 3](https://github.com/user-attachments/assets/b1089275-763d-46cc-9ec7-1f55bb108a25)
+![Screenshot_20250618_194035_Pydroid 3](https://github.com/user-attachments/assets/71c87a70-b178-4373-99cb-cd9023e525ff)
+
 ---
 
 ## 📦 How to Run
